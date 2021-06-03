@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A looking-glass for the times in the tryal and martyrdom of King Charles the I. of glorious memory. With his excellent speech on the scaffold which was erected before his royal palace at Whitehall. With the charge of the Commons of England.</title>
+         </titleStmt>
+         <extent>Approx. 50KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88534</idno><idno type="EEBO-CITATION">99896646</idno>
+  <idno type="VID">134697</idno>
+  <idno type="EEBO-PROQUEST">2240948942</idno>
+  
+            <idno type="STC">Wing L3032A</idno>
+            <idno type="STC">ESTC R231042</idno>
+            <idno type="PROQUEST">99896646</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99896646e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88534)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 134697)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2430:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A looking-glass for the times in the tryal and martyrdom of King Charles the I. of glorious memory. With his excellent speech on the scaffold which was erected before his royal palace at Whitehall. With the charge of the Commons of England.</title>
+               </titleStmt>
+               <extent>30, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year MDCLXXXIX. [1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Last leaf is blank.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="topical_term">Executions and executioners --  Early works to 1800.</term>
+               <term type="topical_term">Last words --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:134697:1"/>
+            <pb facs="tcp:134697:1"/>
+            <p>A Looking-Glass FOR THE TIMES IN THE <hi>Tryal and Martyrdom</hi> OF King CHARLES the I.</p>
+            <p>Of Glorious Memory.</p>
+            <p>With His Excellent SPEECH on the Scaffold which was Erected before His Royal Pa<g ref="char:EOLhyphen"/>lace at <hi>Whitehall.</hi>
+            </p>
+            <p>With the CHARGE of the Commons of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year MDCLXXXIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="indictment">
+            <pb facs="tcp:134697:2"/>
+            <pb n="3" facs="tcp:134697:2"/>
+            <head>THE Charge of the Commons of <hi>England,</hi> AGAINST CHARLES STUART King of ENGLAND, Of High Treason, and other High Crimes, Exhibi<g ref="char:EOLhyphen"/>ted to the High Court of Justice, <date>
+                  <hi>Saturday, Ja<g ref="char:EOLhyphen"/>nuary</hi> 20th. 1648.</date>
+            </head>
+            <p>The Court being sate, and the Prisoner at the Bar, Mr. <hi>Cook</hi> Solicitor General, spake thus; <hi>My Lord, in behalf of the Commons of</hi> England, <hi>and of all the People thereof, I do Ac<g ref="char:EOLhyphen"/>cuse</hi> Charles Stuart, <hi>here present, of High Treason, and High Misdemeanors: And I do in the Name of the Commons of</hi> England, <hi>desire the Charge may be read unto Him:</hi> Which the Clerk then read, as followeth.</p>
+            <p>THat the said <hi>Charles Stuart,</hi> being admitted King of <hi>England,</hi> and therein trusted with a <hi>limited Power,</hi> to Govern by, and according to the Laws of the Land, and not otherwise: And by his Trust, Oath, and Of<g ref="char:EOLhyphen"/>fice, being obliged to use the Power committed to Him, <hi>For the Good and Benefit of the People,</hi> and for the Preservation of their Rights and Liberties: Yet nevertheless, out of a <hi>wicked Design,</hi> to erect and uphold in Himself an Ʋnlimited and Tyran<g ref="char:EOLhyphen"/>nical Power, to Rule <hi>according to His Will,</hi> and to overthrow the Rights and Liberties of the People: Yea, to take away, and
+<pb n="4" facs="tcp:134697:3"/> make void the Foundations thereof, and of all Redress and Re<g ref="char:EOLhyphen"/>medy of Mis-government, which by the fundamental Constitutions of this Kingdom, were reserved on the Peoples behalf, in the Right and Power of frequent and successive Parliaments, or Na<g ref="char:EOLhyphen"/>tional Meetings in Councel: He, the said <hi>Charles Stuart,</hi> for ac<g ref="char:EOLhyphen"/>complishment of such his <hi>Designs,</hi> and for the Protecting of Him<g ref="char:EOLhyphen"/>self and his Adherents, in His and Their <hi>wicked Practices</hi> to the same Ends, hath Trayterously and Maliciously levyed War against the <hi>present Parliament, and the People therein represented.</hi>
+            </p>
+            <p>Particularly, upon or about the thirtieth day of <hi>June,</hi> in the year of our Lord, one thousand six hundred forty and two, at <hi>Be<g ref="char:EOLhyphen"/>verly,</hi> in the County of <hi>York:</hi> And upon, or about the thirtieth day of <hi>July,</hi> in the year aforesaid, in the County of the City of <hi>York:</hi> And upon, or about the twenty fourth day of <hi>August,</hi> in the same year, at the County of the Town of <hi>Notting<g ref="char:EOLhyphen"/>ham</hi> (when, and where He set up <hi>His Standard of War;</hi>) And also on, or about the twenty third day of <hi>October,</hi> in the same year, at <hi>Edg-hill,</hi> and <hi>Keinton-field,</hi> in the County of <hi>Warwick:</hi> And upon, or about the thirtieth day of <hi>November,</hi> in the same year, at <hi>Brainchford,</hi> in the County of <hi>Middlesex:</hi> And upon, or about the thirtieth day of <hi>August,</hi> in the year of our Lord, one thousand six hundred forty and three, at <hi>Cavesham-Bridge,</hi> near <hi>Reding,</hi> in the County of <hi>Berks:</hi> And upon, or about the thirtieth day of <hi>October,</hi> in the year last mentioned, at, or near the City of <hi>Glocester:</hi> And upon, or about thirtieth day of <hi>November,</hi> in the year last mentioned, at <hi>Newbery</hi> in the County of <hi>Berks:</hi> And upon, or about the one and thirtieth day of <hi>July,</hi> in the year of our Lord, one thousand six hundred fourty and four, at <hi>Cropredy-Bridge,</hi> in the County of <hi>Oxon:</hi> And up<g ref="char:EOLhyphen"/>on, or about the thirtieth day of <hi>September,</hi> in the year last men<g ref="char:EOLhyphen"/>tioned, at <hi>Bodmin,</hi> and other places near adjacent, in the County of <hi>Cornwal:</hi> And upon, or about the thirtieth day of <hi>November,</hi> in the year last mentioned, at <hi>Newbery</hi> aforesaid: And upon, or about the eighth day of <hi>June,</hi> in the year of our Lord, one thou<g ref="char:EOLhyphen"/>sand six hundred forty and five, at the Town of <hi>Leicester:</hi> And also, upon the fourteenth day of the same Month, in the same year,
+<pb n="5" facs="tcp:134697:3"/> at <hi>Naseby-field,</hi> in the County of <hi>Northampton.</hi> At which se<g ref="char:EOLhyphen"/>veral Times and Places, or most of them, and at many other places in this Land, at several other times, within the years aforemen<g ref="char:EOLhyphen"/>tioned: And in the year of our Lord, one thousand six hundred fourty and six, He the said <hi>Charles Stuart,</hi> hath caused and pro<g ref="char:EOLhyphen"/>cured many thousands of the free-People of the Nation to be slain; and by <hi>Divisions, Parties, and Insurrections,</hi> within this Land, by Invasions from Foraign parts, endeavoured and procured by Him, and by <hi>many other evil ways and means.</hi> He the said <hi>Charles Stuart,</hi> hath not only <hi>maintain'd and carried</hi> on the said War, <hi>both by Land and Sea,</hi> during the years before mentioned; but also <hi>hath renewed,</hi> or <hi>caused</hi> to be renewed, <hi>the said War</hi> against the <hi>Parliament, and good People</hi> of this <hi>Nation,</hi> in this present year, one thousand six hundred forty and eight, in the Counties of <hi>Kent, Essex, Surrey, Sussex, Middlesex,</hi> and many other Counties and Places in <hi>England</hi> and <hi>Wales,</hi> and also by Sea; And particularly, He the said <hi>Charles Stuart,</hi> hath for that purpose, <hi>Given Commissions to his Son,</hi> the Prince, and others; where<g ref="char:EOLhyphen"/>by, <hi>Besides multitudes of other Persons,</hi> many such, as were by the <hi>Parliament Intrusted and Imployed,</hi> for the safety of the <hi>Na<g ref="char:EOLhyphen"/>tion;</hi> being by Him or His Agents corrupted; to the betraying of their <hi>Trust,</hi> and revolting from the <hi>Parliament,</hi> have had Enter<g ref="char:EOLhyphen"/>tainment and Commission, for the continuing and renewing of <hi>War</hi> and <hi>Hostility,</hi> against the said <hi>Parliament and People,</hi> as afore<g ref="char:EOLhyphen"/>said. By which <hi>Cruel and Unnatual Wars</hi> by Him, the said <hi>Charles Stuart,</hi> Levyed, Continued, and Renewed, as foresaid, much <hi>Innocent Blood</hi> of the <hi>Free-People</hi> of this <hi>Nation</hi> hath been <hi>Spilt;</hi> many <hi>Families</hi> have been <hi>undone,</hi> the <hi>Publick Treasury Wasted and Exhausted, Trade obstructed,</hi> and <hi>miserably de<g ref="char:EOLhyphen"/>cayed; vast Expence</hi> and <hi>Damage</hi> to the <hi>Nation incurred,</hi> and many <hi>parts</hi> of the <hi>Land spoiled,</hi> some of them even to <hi>Desolation.</hi>
+            </p>
+            <p>And for further prosecution of His said <hi>Evil Designs,</hi> He, the said <hi>Charles Stuart,</hi> doth still continue His Commissions to the said <hi>Prince,</hi> and other <hi>Rebels</hi> and <hi>Revolters,</hi> both <hi>English</hi> and <hi>Forraigners;</hi> and to the Earl of <hi>Ormond,</hi> and to the <hi>Irish Re<g ref="char:EOLhyphen"/>bels</hi> and <hi>Revolters,</hi> associated with Him; from whom further <hi>In<g ref="char:EOLhyphen"/>vasions</hi>
+               <pb n="6" facs="tcp:134697:4"/> upon this Land are threatned, upon the procurement, and on the behalf of the said <hi>Charles Stuart.</hi>
+            </p>
+            <p>All which <hi>wicked Designs, Wars,</hi> and evil Practices of Him, the said <hi>Charles Stuart,</hi> have been and are carried on, for the ad<g ref="char:EOLhyphen"/>vancing and upholding of the Personal Interest of <hi>Will and Power,</hi> and pretended <hi>Prerogative</hi> to Himself and his Family, against the publick Interest, Common-Right, Liberty, Justice, and Peace <hi>of the People of this Nation,</hi> by, and for whom he was entrusted, as aforesaid.</p>
+            <p>By all which it appeareth, that He, the said <hi>Charles Stuart</hi> hath been, and is the Occasioner, Author, and Contriver of the said Ʋnnatural, Cruel, and Bloody Wars, and therein guilty of all the Treasons, Murthers, Rapines, Burnings, Spoils, Desolations, Damage and Mischief to this Nation, acted or committed in the said Wars, or occasioned thereby.</p>
+            <p>And the said <hi>John Cook,</hi> by Protestation saving on the behalf of the People of <hi>England,</hi> the liberty of Exhibiting at any time hereafter, any other Charge against the said <hi>Charles Stuart;</hi> and also of replying to the Answers which the said <hi>Charles Stuart</hi> shall make to the Premises, or any of them, or any other Charge that shall be so Exhibited) doth, for the said <hi>Treasons</hi> and <hi>Crimes,</hi> on the behalf of the said People of <hi>England,</hi> Impeach the said <hi>Charles Stuart,</hi> as a <hi>Tyrant, Traytor, Murtherer,</hi> and a <hi>pub<g ref="char:EOLhyphen"/>lick,</hi> and <hi>Implacable Enemy</hi> to the Common wealth of <hi>England:</hi> And pray, That the said <hi>Charles Stuart,</hi> King of <hi>England,</hi> may be put to answer <hi>All</hi> and <hi>Every</hi> the <hi>Premises,</hi> That such <hi>Proceed<g ref="char:EOLhyphen"/>ings, Examinations, Tryals, Sentence,</hi> and <hi>Judgement</hi> may be thereupon had, or shall be agreeable to Justice.</p>
+         </div>
+         <div type="trial_proceedings">
+            <pb n="7" facs="tcp:134697:4"/>
+            <div type="day">
+               <head>A Perfect NARRATIVE Of the whole PROCEEDINGS OF THE <hi>High Court of Justice <hi>in the</hi>
+                  </hi> Tryal <hi>of the</hi> KING <hi>in</hi> VVestmin<g ref="char:EOLhyphen"/>minster-Hall, <date>Saturday Jan. 20. 1648.</date>
+               </head>
+               <p>AT the High Court of Justice sitting in the Great Hall at <hi>West<g ref="char:EOLhyphen"/>minster,</hi> Serjant <hi>Bradshaw</hi> Lord President, and about Se<g ref="char:EOLhyphen"/>venty Members present, [O <hi>Yes</hi>] made, Silence Comman<g ref="char:EOLhyphen"/>ded.</p>
+               <p>The act of the Commons in Parliament (for the Tryal of the <hi>King</hi>) was read, after the Court was called, and each Member rising up as he was called.</p>
+               <p>The <hi>King</hi> came into the Court (with His Hat on) the Serjant usher'd him in with the Mace: Coll. <hi>Hacker,</hi> and about thirty Officers and Gentlemen more, came as his Guard.</p>
+               <sp>
+                  <speaker>Lord President,</speaker>
+                  <p>CHARLES STUART <hi>King</hi> of <hi>England,</hi> the Com<g ref="char:EOLhyphen"/>mons of <hi>England,</hi> assembled in Parliament, being sensible of the great Calamities that have been brought upon this Nation, and of the Inno<g ref="char:EOLhyphen"/>cent Blood that hath been shed in this Nation, which are referred to you as the Author of it; and according to that duty which they
+<pb n="8" facs="tcp:134697:5"/> owe to God, to the Nation, and to themselves; and according to that Power and Fundamental Trust that is reposed in them by the People, have constituted this High Court of Justice, before which you are now brought, and you are to hear your Charge, upon which the Court will proceed.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Cook</hi> Solicitor General.</speaker>
+                  <p>
+                     <hi>My Lord, in behalf of the Commons of</hi> England, <hi>and of all the People thereof, I do accuse</hi> Charles Stuart, <hi>here present, of High Treason, and high Misdemeanors; and I do, in the Name of the Commons of</hi> England, <hi>desire the Charge may be read un<g ref="char:EOLhyphen"/>to him.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <p>Hold a little.</p>
+               </sp>
+               <sp>
+                  <speaker>Lord President.</speaker>
+                  <p>
+                     <hi>Sir, the Court commands the Charge to be read, if you have any thing to say afterwards, you may be heard.</hi>
+                  </p>
+               </sp>
+               <p>
+                  <hi>The Charge read.</hi>
+               </p>
+               <p>The King smiled often during the time, especially at these words, <hi>Tyrant, Traytor, Murderer,</hi> and publick Enemy of the Commonwealth.</p>
+               <sp>
+                  <speaker>Lord President.</speaker>
+                  <p>
+                     <hi>Sir, you have now heard your Charge read, contain<g ref="char:EOLhyphen"/>ing such matter as appears in it; you find, That in the close of it, it is prayed to the Court, in the behalf of the Commons of</hi> England, <hi>That you answer to your Charge. The Court expects your answer.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <p>I would know by what Power I am called hither? I was not long a<g ref="char:EOLhyphen"/>go in the <hi>Isle of Wight,</hi> how I came there, is a longer story than I think is fit at this time for me to speak of; but there I entered into a Treaty with both Houses of Parliament, with as much publick Faith as its possible to be had of any people in the world. I Treated there with a number of Honourable Lords and Gentlemen, and Treated honestly and uprightly, I cannot say but they did very Nobly with me, we were upon a conclusion of the Treaty. Now I would know by what Authority, (I mean) Lawful; there are many unlawful Au<g ref="char:EOLhyphen"/>thorities in the world, Thieves and Robbers by the high ways; but I would know by what Authority I was brought from thence, and carried from place to place, (and I know not what) and when I know what lawful Authority, I shall answer. Remember I am your King, your lawful King, and what sins you bring upon your heads, and the Judgment of God upon this Land, think well upon it, I say, think well upon it, before you go further from one sin to a greater, therefore let me know by what lawful Authority I am seated here, and I shall not be unwilling to answer? in the mean time I shall not betray my Trust; I have a Trust committed to me by God, by old and lawful Descent, I will not be<g ref="char:EOLhyphen"/>tray it to answer to a new unlawful Authority; therefore resolve me that, and you shall hear more of me.</p>
+               </sp>
+               <sp>
+                  <speaker>Lord President.</speaker>
+                  <p>
+                     <hi>If you had been pleased to have observed what was hinted to you▪ by the Court, at your first coming hither, you would have known by what Authority; which Authority requires you in the name of
+<pb n="9" facs="tcp:134697:5"/> the People of</hi> England, <hi>of which you are Elected King, to answer them.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <p>No Sir, I deny that.</p>
+               </sp>
+               <sp>
+                  <speaker>Lord President.</speaker>
+                  <p>
+                     <hi>If you acknowledge not the Authority of the Court, they must proceed.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <p>I do tell them so, <hi>England</hi> was never an Elective Kingdom, but an Hereditary Kingdom for near these thousand years, therefore let me know by what Authority I am called hither? I do stand more for the liberty of my People than any here that come to be my pretended Judges; and therefore let me know by what lawful Authority I am seated here, and I will answer it, other<g ref="char:EOLhyphen"/>wise I will not answer it.</p>
+               </sp>
+               <sp>
+                  <speaker>Lord President.</speaker>
+                  <p>
+                     <hi>Sir, how really you have managed your Trust, is known; your way of answer is to interrogate the Court, which beseems not you in this condition. You have been told of it twice or thrice.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <p>Here is a Gentleman, Leiut. Col. <hi>Cobbet,</hi> (ask him) if he did not bring me from the <hi>Isle of Wight</hi> by force? I do not come here as submitting to the Court; I will stand as much for the Priviledge of the House of Commons, rightly understood, as any Man here whatsoever. I see no House of Lords here that may constitute a Parliament, and (the King too) should have been. Is this the bringing of the King to his Parliament? Is this the bringing an end to the Treaty in the publick Faith of the world? Let me see a legal Authority warranted by the word of God, the Scriptures; or warranted by the Constitu<g ref="char:EOLhyphen"/>tions of the Kingdom, and I will answer.</p>
+               </sp>
+               <sp>
+                  <speaker>Lord President,</speaker>
+                  <p>
+                     <hi>Sir, You have propounded a Question, and have been answered; seeing You will not answer, the Court will consider how to proceed, in the meam time, those that brought you hither are to take charge of you back again</hi>
+                  </p>
+                  <p>
+                     <hi>The Court desires to know, whether this be all the answer you will give, or no.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <p>Sir, I desire that you would give me, and all the World, satisfacti<g ref="char:EOLhyphen"/>on in this; let me tell you, it is not a slight thing you are about. I am sworn to keep the Peace by that duty I owe to God and my Countrey, and I will do it to the last breath of my Body, and therefore you shall do well to satisfie first God, and then the Country, by what Authority you do it, if you do it by a Ʋsur<g ref="char:EOLhyphen"/>ped Authority, you cannot answer it. There is a God in Heaven that will call you, and all that give you Power, to account; Satisfie me in that, and I will answer, otherwise I betray my Trust, and the Liberties of the People, and therefore think of that, and then I shall be willing. For I do avow, That it is a great sin to withstand Lawful Authority, as it is to submit to a Tyranical, or any otherwise unlawful Authority, and therefore satisfie me that, and you shall receive my answer.</p>
+               </sp>
+               <sp>
+                  <speaker>Lord President.</speaker>
+                  <p>
+                     <hi>The Court expcts you should give them a final an<g ref="char:EOLhyphen"/>swer, their purpose is to adjourn till</hi> Monday <hi>next, if you do not satisfie your self, tho' we do tell you our Authority, we are satisfied with our
+<pb n="10" facs="tcp:134697:6"/> Authority, and it is upon Gods Authority and the Kingdoms, and that Peace you speak of, will be kept in the doing of Justice, and that's our present Work.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <p>For answer let me tell you, you have shewn no lawful Authority to to satisfie any reasonable Man.</p>
+               </sp>
+               <sp>
+                  <speaker>Lord Presid.</speaker>
+                  <p>
+                     <hi>That is in your apprehension, we are satisfied that are your Judges.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <p>'Tis not my apprehension, nor yours neither, (that ought to decide it.)</p>
+               </sp>
+               <sp>
+                  <speaker>Lord Presid.</speaker>
+                  <p>
+                     <hi>The Court hath heard you, and you are to be disposed of as they have commanded.</hi>
+                  </p>
+                  <p>
+                     <hi>The Court adjourns to the</hi> Painted Chamber <hi>on</hi> Monday <hi>at 10 of the Clock in the Forenoon, and thence hither.</hi>
+                  </p>
+               </sp>
+               <p>It is to be observed, <hi>That as the Charge was reading against the King, the head of His Staff fell off, which He wondered at, and seeing none to take it up, He stoops for it Himself.</hi>
+               </p>
+               <p>
+                  <hi>As the King went away, (facing the Court,) said,</hi> I do not fear that, <hi>(meaning the Sword.) The people in the</hi> Hall <hi>as he went down the Stairs, cried out, some,</hi> God Save the King, <hi>and most for</hi> Justice..</p>
+            </div>
+            <div type="day">
+               <head>At the High Court of Justice sitting in <hi>Westminster-Hall,</hi>
+                  <date>
+                     <hi>Mon<g ref="char:EOLhyphen"/>day January</hi> the <hi>22d. 1648.</hi>
+                  </date>
+               </head>
+               <p>
+                  <hi>O Yes</hi> made. Silence commanded. The Court call'd and answer'd to their Names.</p>
+               <p>Silence commanded upon pain of Imprisonment, and the Captain of the Guard to apprehend all such as make disturbance.</p>
+               <p>Upon the Kings coming in, a shout was made.</p>
+               <p>Command given by the Court to the Captain of the Guard, to fetch and take into his Custody, those who make any disturbance.</p>
+               <sp>
+                  <speaker>Mr. Solicitor.</speaker>
+                  <p>May it please your Lordship, my Lord <hi>President.</hi>
+                  </p>
+                  <p>I did at the last Court in the behalf of the Commons of <hi>England,</hi> ex<g ref="char:EOLhyphen"/>hibite and give into this Court a Charge of High Treason, and other high Crimes against the Prisoner at the Bar, whereof I do accuse him in the Name of the People of <hi>England,</hi> and the Charge was read unto him, and his answer required. My Lord, he was not then pleased to give an answer, but instead of answering did there dispute the Autho<g ref="char:EOLhyphen"/>rity of this high Court. My humble motion to this high Court in be<g ref="char:EOLhyphen"/>half of the Kingdom of <hi>England</hi> is, That the Prisoner may be directed</p>
+               </sp>
+               <sp>
+                  <gap reason="missing" extent="4 pages">
+                     <desc>〈4 pages missing〉</desc>
+                  </gap>
+                  <pb n="15" facs="tcp:134697:6"/>
+                  <p> a direct and positive answer. My Lord, besides this great delay of Justice, I shall now humbly move your Lordship for speedy Judgment against him. My Lord, I might press your Lordship upon the whole, that according to the known Rules of the Laws of the Land, That if a Prisoner shall stand as contumacious in contempt, and shall not put in an issuable Plea, Guilty or not Guilty of the Charge given against him, whereby he may come to a fair Tryal; That as by an implicite Con<g ref="char:EOLhyphen"/>fession, it may be taken <hi>pro confesso,</hi> as it hath been done to those who have deserved more favour than the Prisoner at the Bar has done: But besides, my Lord, I shall humbly press your Lordship upon the whole Fact; The House of Commons, the Supream Authority and Jurisdicti<g ref="char:EOLhyphen"/>on of the Kingdom, they have declared, That it is notorious, That the matter of the Charge is true, as it is truth (my Lord) as clear as Chrystal, and as the Sun that shines at noon-day, which if your Lord<g ref="char:EOLhyphen"/>ship and the Court be not satisfied in, I have notwithstanding, on the People of <hi>England</hi>'s behalf, several Witnesses to produce: And there<g ref="char:EOLhyphen"/>fore I do humbly pray, and yet I must confess it is not so much I, as the Innocent Blood that hath been shed, the cry whereof is very great for Justice and Judgment, and therefore I do humbly pray, That spee<g ref="char:EOLhyphen"/>dy Judgment be pronounced against the Prisoner at the Bar.</p>
+               </sp>
+               <sp>
+                  <speaker>Lord President.</speaker>
+                  <p>Sir, you have heard what is moved by the Councel on the behalf of the Kingdom, against you. Sir, you may well re<g ref="char:EOLhyphen"/>member, and if you do not, the Court cannot forget what delatory dealings the Court hath found at your hands, you were pleased to pro<g ref="char:EOLhyphen"/>pound some Questions, you have had your Resolution upon them. You were told over and over again, That the Court did affirm their own Jurisdiction, That it was not for you, nor any other Man, to dispute the Jurisdiction of the Supream and Highest Authority of <hi>England,</hi> from which there is no Appeal, and touching which, there must be no dispute; yet you did persist in such carriage, as you gave no manner of Obedience, nor did you acknowledge any Authority in them, nor the High Court, that constituted this Court of Justice.</p>
+                  <p>Sir, I must let you know from the Court, that they are very sensible of these delays of yours, and that they ought not be thus authorized by the Supream Court of <hi>England,</hi> to be thus trifled withal, and that they might in Justice; if they pleased, and according to the Rules of Justice, take advantage of these delays, and proceed to pronoun<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Judgment against you, yet nevertheless they are pleased to give<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>rection; and on their behalfs, I do require you, That you make<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>sitive answer unto this Charge that is against you Sir, in plai<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> for Justice knows no respect of Persons; you are to give yo<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> and final answer in plain <hi>English,</hi> whether you be Guilty o<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> of these Treasons laid to your Charge.</p>
+               </sp>
+               <pb n="16" facs="tcp:134697:7"/>
+               <p>The King after a little pause, said,</p>
+               <sp>
+                  <p>
+                     <hi>When I was here yesterday, I did desire to speak for the Liberties of the People of</hi> England; <hi>I was interrupted: I desire to know yet, whether I may speak freely or not?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Lord President.</speaker>
+                  <p>Sir, you have had the Resolution of the Court upon the like Question the last day, and you were told, That having such a Charge of so high a Nature against you, and your Work was, that you ought to acknowledge the Jurisdiction of the Court, and to answer to your Charge. Sir, if you answer to your Charge, which the Court gives you leave now to do, though they might have taken the advan<g ref="char:EOLhyphen"/>tage of your contempt; yet if you be able to answer to your Charge, when you have once answered, you shall be heard at large, make the best Defence you can. But Sir I must let you know from the Court, as their commands, that you are not to be permitted to issue out into any other discourses, till such time as you have given a positive answer con<g ref="char:EOLhyphen"/>cerning the matter that is charg'd upon you.</p>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <p>
+                     <hi>For the Charge, I value it not a rush, it is the Liberty of the Peo<g ref="char:EOLhyphen"/>ple of</hi> England <hi>that I stand for; for me to acknowledge a new Court that I never heard of before, I that am your King, that should be an example to all the People of</hi> England, <hi>for to uphold Justice, to maintain the old Laws; indeed I do not know how to do it; you spoke very well the first day that I came here, (on</hi> Saturday) of the Obligations that I had laid upon me by God, to the maintenance of the Liberties of my People: <hi>the same Obligation you spake of, I do acknowledge to God that I owe to him, and to my People, to defend as much as in me lies, the antient Laws of the Kingdom, therefore, until that I may know that this is not against the Fundamental Laws of the Kingdom, by your favour I can put in no particular</hi>
+                     <note n="*" place="margin">This is as the K. express'd, but I sup<g ref="char:EOLhyphen"/>posed he meant An<g ref="char:EOLhyphen"/>swer.</note>
+                     <hi>Charge: If you will give me time, I will shew you my reasons why I cannot do it, and this</hi>
+                     <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>
+                  </p>
+               </sp>
+               <p>Here being interrupted, he said,</p>
+               <p>
+                  <hi>By your favour, you ought not to interrupt me; how I came here, I know not, there's no Law for it to make your King your Prisoner: I was in a Trea<g ref="char:EOLhyphen"/>ty upon the publick Faith of the Kingdom, that was the known <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> two Houses of Parliament that was the Representative of the Kingdom, and when that I had almost made an end of the Treaty, then I was hurried away and brought hither, and therefore <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>
+                  </hi>
+               </p>
+               <p>Here the Lord President said, Sir, you must know the pleasure of the Court.</p>
+               <sp>
+                  <speaker>King.</speaker>
+                  <p>
+                     <hi>By your favour Sir:</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <pb n="17" facs="tcp:134697:7"/>
+                  <speaker>Lord President.</speaker>
+                  <p>Nay Sir, by your favour, you may not be permitted to fall into those Discourses; you appear as a Delinquent, you have not acknowledged the Authority of the Court, the Court craves it not of you, but once more, they command you to give your positive answer.</p>
+               </sp>
+               <sp>
+                  <speaker>Clerk.</speaker>
+                  <p>Do your Duty.</p>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <p>
+                     <hi>Duty Sir!</hi>
+                  </p>
+               </sp>
+               <p>The Clerk reads.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="text">
+                           <p>
+                              <hi>CHARLES STUART</hi> King of <hi>England,</hi> You ar<gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> accu<g ref="char:EOLhyphen"/>sed in the behalf of the Commons of <hi>England,</hi> of diverse high Crimes and Treasons, which Charge hath been Read unto You, the Court now requires You to give Your positive and final Answer, by way of Confession or Denial of the Charge.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <sp>
+                  <speaker>King.</speaker>
+                  <p>
+                     <hi>Sir, I say again to you, so that I might give satisfaction to the People of</hi> England, <hi>of the clearness of my proceeding, not by way of An<g ref="char:EOLhyphen"/>swer, not in this way, but to satisfie them, that I have done nothing against that Trust that hath been committed to me, I would do it; but to acknowledge a new Court against their Privileges, to alter the fundamental Laws of the Kingdom, Sir, you must excuse me,</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Lord President.</speaker>
+                  <p>Sir, this is the third time that you have publickly disown'd this Court, and put an affront upon it. How far you have pre<g ref="char:EOLhyphen"/>serv'd Priviledges of the People, your actions have spoke it; but truly Sir, Mens intentions ought to be known by their actions, you have Written your meaning in Bloody Characters throughout the whole Kingdom; but Sir, you understand the pleasure of the Court, <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> Clerk Record the default, <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>and Gentlemen, you that took charge of the Prisoner, take him back again.</p>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <p>
+                     <hi>I will only say this one word more to you, if it were only my own particular, I would not say any more, nor interrupt you.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Lord President.</speaker>
+                  <p>Sir, you have heard the pleasure of the Court, and you are, (notwithstanding you will not understand it) to find that you are before a Court of Justice.</p>
+               </sp>
+               <p>Then the King went forth with his Guard, and Proclamation was made, that all Persons which had then appear'd, and had further to do at the Court. might depart into the <hi>Painted-Chamber,</hi> to which place the Court did forthwith adjourn, and intended to meet in <hi>Westminster-Hall</hi> by Ten of the Clock the next Morning.</p>
+               <sp>
+                  <speaker>Cryer.</speaker>
+                  <p>God bless the Kingdom of <hi>England.</hi>
+                  </p>
+               </sp>
+            </div>
+            <div type="day">
+               <pb n="18" facs="tcp:134697:8"/>
+               <head>
+                  <date>
+                     <hi>Wednesday January</hi> 24th. 1648.</date>
+               </head>
+               <p>THis day it was expected the High Court of Ju<g ref="char:EOLhyphen"/>stice would have met in <hi>Westminster-Hall,</hi> about Ten of the Clock, but at the same time appointed one of the Ushers by the direction of the Court (then sitting in the <hi>Painted-Chamber</hi>) gave notice to the People there Assembled, That in Regard the Court was then upon the Examination of VVitnesses in Relation to present Affairs, in the <hi>Painted-Chamber,</hi> they could not sit there, but all Persons appointed to be there, were to appear upon further Summons.</p>
+            </div>
+         </div>
+         <div type="trial_proceedings">
+            <pb n="19" facs="tcp:134697:8"/>
+            <head>THE PROCEEDINGS OF THE <hi>High Court of Iustice <hi>Sitting at</hi>
+               </hi> VVestminster-Hall, <date>Satur<g ref="char:EOLhyphen"/>day Jan. 27. 1648.</date>
+            </head>
+            <p>O Yes made. Silence commanded. The Court called.</p>
+            <p>First, The Lord President, (who was in a Scarlet Vesture, befitting the business of the day.) After him 67. Members more answered to their Names.</p>
+            <p>The King came in, in his wonted Posture (with his Hat on.)</p>
+            <p>A Cry made in the Hall (as he passed to the Court) for Justice and Execution.</p>
+            <p>O Yes made: And Silence commanded. The Captain of the Guard Commanded to take into Custody such as made any Distur<g ref="char:EOLhyphen"/>bance.</p>
+            <p>Upon the Kings coming, he desired to be heard.</p>
+            <p>To which the Lord President answered, That it might be in time, but that he must hear the Court first.</p>
+            <p>The King prest it, <hi>For that he believed it would be in Order to what the Court would say, and that an hasty Judgment was not so soon re<g ref="char:EOLhyphen"/>called.</hi>
+            </p>
+            <p>
+               <label>Then the Lord President spoke as followeth.</label>
+            </p>
+            <sp>
+               <p>Gentlemen, It is well known to all, or most of you here present, that the Prisoner at the Bar hath been several times convented, and
+<pb n="20" facs="tcp:134697:9"/> brought before this Court to make Answer to a Charge of Treason, and other High Crimes exhibited against Him in the Name of the People of<note n="*" place="margin">Here a Malignant Lady inter<g ref="char:EOLhyphen"/>rupted the Court, (say<g ref="char:EOLhyphen"/>ing, not half the People) but she was soon silenced</note>
+                  <hi>England.</hi> To which Charge, being required to Answer, He hath been so far from obeying the Commands of the Court, by sub<g ref="char:EOLhyphen"/>mitting to their Justice, as He began to take upon Him Reasoning and Debate unto the Authority of the Court, and to the Highest Court that appointed them, and to Try and to Judge Him; but being over-ruled in that, and required to make His Answer, he was still pleased to continue Contumelious, and to refuse to submit to Answer; hereupon the Court, that they may not be wanting to themselves, nor the Trust reposed in them, nor that any mans wil<g ref="char:EOLhyphen"/>fulness prevent Justice, they have thought fit to take the matter into their Consideration, they have considered of the Charge, they have considered of the Contumacy, and of that Confession which in Law doth arise upon that Contumacy; they have likewise considered of the Notoriety of the Fact Charged upon this Prisoner, and upon the whole matter; they are resolved, and have agreed upon a Sen<g ref="char:EOLhyphen"/>tence to be pronounced against this Prisoner, but in respect he doth desire to be heard before the Sentence be read and pronoun<g ref="char:EOLhyphen"/>ced; the Court hath resolved that they will hear Him: Yet Sir, Thus much I must tell you before hand, which you have been mind<g ref="char:EOLhyphen"/>ed of at other Courts, That if that which you have to say be to offer any Debate concerning the Jurisdiction, you are not to be heard in it, you have offered it formerly, and you have struck at the Root, that is, the Power and the supream Authority of the Com<g ref="char:EOLhyphen"/>mons of <hi>England,</hi> which this Court will not admit a Debate of, and which indeed it is an irrational thing in them to do, being a Court that acts upon Authority derived from them. But Sir, If you have any thing to say in Defence of your self, concerning the mat<g ref="char:EOLhyphen"/>ter Charged, the Court hath given me in command to let you know they will hear you.</p>
+            </sp>
+            <p>
+               <label>Then the King Answered.</label>
+            </p>
+            <sp>
+               <p>Since that I see you will not hear any thing of Debate, concerning that which I confess I thought most material for the Peace of the Kingdom, and for the Liberty of the Subject, I shall wave it, I shall speak nothing to it; but only I must tell you, that this many a day all things have been taken away from Me, but that that I call dearer to Me then my Life, which is my Conscience and my Honour; and if I had a respect to my life more then the Peace of the Kingdom, the Liberty of the Subject, certain<g ref="char:EOLhyphen"/>ly I should have made a particular Defence for my self, for by that, at leastwise, I might have delayed any ugly Sentence, which I believe will
+<pb n="21" facs="tcp:134697:9"/> pass upon me; therefore certainly, Sir, as a man that hath some under<g ref="char:EOLhyphen"/>standing, some knowledge of the World; if that my true zeal to my Coun<g ref="char:EOLhyphen"/>try had not over born the care that I have for my own Preservation, I should have gone another way to work then that I have done: Now Sir, I con<g ref="char:EOLhyphen"/>ceive, that an hasty Sentence once past may sooner be repented of then re<g ref="char:EOLhyphen"/>called, and truly the self same desire that I have for the Peace of the King<g ref="char:EOLhyphen"/>dom, and the Liberty of the Subject more then my own particular ends, makes me now at last desire, That I having something to say that concerns both: I desire before Sentence be given, that I may be heard in the <hi>Pain<g ref="char:EOLhyphen"/>ted Chamber</hi> before the Lords and Commons: This delay cannot be pre<g ref="char:EOLhyphen"/>judicial unto you whatsoever I say: If that I say no Reason, those that hear me must be Judges, I cannot be Judge of that that <hi>I</hi> have; if it be Reason, and really for the welfare of the Kingdom, and the Liberty of the Subject, I am sure on't it is very well worth the hearing; therefore I do conjure you, as you love that that you pretend, (I hope its real,) the Li<g ref="char:EOLhyphen"/>berty of the Subject, the Peace of the Kingdom, that you will grant me this Hearing before any Sentence be past; I only desire this, That you will take this into your consideration, it may be you have not heard of it before<g ref="char:EOLhyphen"/>hand, if you will I will retire, and you may think of it; but if I cannot get this Liberty, I do protest, That these fair shews of Liberty and Peace are pure shews, and that you will not hear your King.</p>
+            </sp>
+            <p>
+               <label>The Lord President said.</label>
+            </p>
+            <p>That what the King had said, was a declining of the Jurisdicti<g ref="char:EOLhyphen"/>on of the Court, which was the thing wherein he was limited be<g ref="char:EOLhyphen"/>fore.</p>
+            <p>
+               <label>The King urged.</label>
+            </p>
+            <p>That what he had to say, was not a declining of the Court, but for the Peace of the Kingdom, and Liberty of the Subject.</p>
+            <p>
+               <label>Lord President.</label>
+            </p>
+            <p>Sir, This is not altogether new that you have moved unto us, though it is the first time, that in Person, you have offered it to the Court: And afterwards, That though what he had urged might seem to tend to delays, yet according to that which the King seem'd to desire, the Court would withdraw for a time, and he should hear their pleasure.</p>
+            <p>Then the Court withdrawing into the Court of <hi>Wards,</hi> The <hi>Sergeant at Arms</hi> had command to withdraw the Prisoner, and to give Order for his Return again.</p>
+            <pb n="22" facs="tcp:134697:10"/>
+            <p>The Court after about half an hours debate, return'd from the Court of <hi>VVards</hi> Chamber: And the King being sent for, the Lord President spoke to this effect.</p>
+            <sp>
+               <p>Sir, You were pleased to make a motion here to the Court, touching the propounding of somewhat to the Lords and Commons in the <hi>Painted Chamber,</hi> for the Peace of the Kingdom; you did in effect receive an Answer, before their adjourning, being <hi>pro forma tantum,</hi> for it did not seem to them that there was any difficulty in the thing; they have considered of what you have moved, and of their own Authority: The Return from the Court is this, That they have been too much delayed by you already, and they are Judges ap<g ref="char:EOLhyphen"/>pointed by the highest Authority, and Judges are no more to delay, then they are to deny Justice; they are good words in the great old Charter of <hi>England, Nulli Negabimus, nulli condemus, &amp; nulli de<g ref="char:EOLhyphen"/>ferremus Justitiam:</hi> But every man observes you have delay'd them in your Contempt and Default, for which they might long since have proceeded to Judgment against you; and notwithstanding what you have offered, they are resolved to proceed to Sentence and to Judgement, and that's their unanimous Resolution.</p>
+            </sp>
+         </div>
+         <div type="scaffold_speech">
+            <pb n="23" facs="tcp:134697:10"/>
+            <head>King Charles I. HIS SPEECH Made upon the Scaffold at <hi>White-Hall</hi>-Gate, <hi>immediately be<g ref="char:EOLhyphen"/>fore His Execution.</hi>
+               <date>Tuesday January the <hi>30th. 1648.</hi>
+               </date>
+            </head>
+            <p>ABout Ten in the Morning, the King was brought from St. <hi>James</hi>'s, walking on foot through the <hi>Park,</hi> with a Regiment of Foot, part before and part behind Him, with Colours flying, Drums beating, His private Guard of <hi>Partizans,</hi> with some of His Gentlemen before, and some behind bare headed, Dr. <hi>Juxon</hi> next behind Him, and Coll. <hi>Thomlinson</hi> (who had the Charge of Him) talking with the King bare headed, from the <hi>Park,</hi> up the Stairs into the Gallary, and so into
+<pb n="28" facs="tcp:134697:11"/> the<note n="*" place="margin">It is ob<g ref="char:EOLhyphen"/>served, The K. desired to have the use of the <hi>Cabinet,</hi> &amp; the lit<g ref="char:EOLhyphen"/>tle Room next it, where there was a Trap<g ref="char:EOLhyphen"/>door.</note>
+               <hi>Cabinet-Chamber,</hi> where He us'd to lie, where He continued at His Devotion, refusing to Dine, (having before taken the Sacrament) only about an hour before he came forth, he drank a glass of Claret Wine, and eat a piece of Bread about Twelve at noon.</p>
+            <p>From thence he was accompanied by Dr. <hi>Juxon,</hi> Coll. <hi>Thomlinson,</hi> and other Officers, formerly appointed to attend Him, and the private Guard of <hi>Partizans,</hi> with Musquetiers on each side, through the <hi>Banqueting-House</hi> adjoyning, to which the<note n="*" place="margin">It was near (if not in) the ve<g ref="char:EOLhyphen"/>ry place where the first blood in the be<g ref="char:EOLhyphen"/>ginning of the late Troubles was shed, when the Kings Cavaliers fell upon the Citizens, killed one, and wounded about <hi>50</hi> others.</note> Scaffold was erected, between <hi>White-Hall-Gate</hi> and the Gate leading into the Gallary from St. <hi>James</hi>'s: The Scaffold was hung round with Black, and the Floor covered with Black, and the Ax and the Block laid in the midle of the Scaffold. There were divers Companies of Foot, and Troops of Horse placed on the one side the Scaffold towards <hi>King-street,</hi> and on the other side towards <hi>Charing-Cross,</hi> and the multitudes of People that came to be Spectators, very great.</p>
+            <p>The King being come upon the Scaffold, looked very earnest<g ref="char:EOLhyphen"/>ly on the Block, and asked Coll. <hi>Hacker</hi> if there were no higher; and He spake thus, (directing His Speech chiefly to Collonel <hi>Thomlinson.</hi>
+            </p>
+            <pb n="25" facs="tcp:134697:11"/>
+            <sp>
+               <speaker>KING.</speaker>
+               <p>I Shall be very little heard of any body here, I shall therefore speak a word unto you here; indeed I could hold my peace very well, if I did not think that holding my peace, would make some Men think that I did submit to the Guilt, as well as to the Punishment; but I think it is my Duty to God first, and to my Countrey, for to clear my self both as an honest Man, and a good King, and a good Christian. I shall begin first with my Innocency, in troth I think it not very needful for me to insist long upon this, for all the World knows that I did never begin a War with the two Houses of Parliament, and I call God to witness, to whom I must shortly make an account, that I never did intend for to incroach upon their Priviledges. They began upon me, it is the Militia, they began upon, they confess that the Militia was mine, but they thought it fit for to have it from me; and to be short, if any body will look to the Dates of Commissions, of Their Commis<g ref="char:EOLhyphen"/>sions and Mine, and likewise to the Declarations, will see clearly that they began these unhappy Troubles, not I; so that the as guilt of these Enormous Crimes that are laid against me, I hope in God that God will clear me of it, <hi>I</hi> will not, I am in Charity; God forbid that I should lay it upon the two Houses of Parliament, there is no necessi<g ref="char:EOLhyphen"/>ty of either, I hope they are free of this guilt; for I do believe that ill Instruments between Them and Me, has been the chief Cause of all this blood shed; so that by way of speaking, as I find my self clear of this, I hope (and pray God) that they may too: Yet for all this, God forbid that I should be so ill a Christian, as not to say that God's Judgments are just upon me. Many times he does pay Justice by an unjust Sentence, that is ordinary; I
+<pb n="26" facs="tcp:134697:12"/> will only say this, That an unjust Sentence<note n="*" place="margin">Strafford</note> that I suffer'd for to take effect, is punished now, by an unjust Sentence upon me; that is, so far I have said, to shew you that I am an Innocent Man.</p>
+               <p>Now for to shew you that I am a good Christian: I hope there is<note n="*" place="margin">Pointing to D<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ctor <hi>Juxon.</hi>
+                  </note> a good Man that will bear me witness, That I have forgiven all the World; and even those in particular, that have been the chief causers of my Death; who they are, God knows, I do not desire to know, I pray God forgive them. But this is not all, my Charity must go farther, I wish that they may repent, for indeed they have committed a great sin in that particular; I pray God with St. <hi>Stephen,</hi> That <hi>this be not laid to their Charge;</hi> nay, not only so, but that they may take the right way to the Peace of the Kingdom, for my Charity commands me not only to forgive particular Men, but my Charity commands Me to endeavour to the last gasp the Peace of the Kingdom: So (Sirs) I do wish with all my Soul, and I do hope (there is<note n="*" place="margin">Turning to some Gentlemen that wrote.</note> some here will carry it further) that they may endeavour the Peace of the Kingdom. Now (Sirs) I must shew you both how you are out of th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay, and will put you in a way; First, you are out of the way, for certainly all the way you ever have had yet, as I could find by any thing, is in the way of Conquest; certainly this is an ill way, for Conquest (Sir) in my Opinon, is ne<g ref="char:EOLhyphen"/>ver just, except there be a good just Cause, either for mat<g ref="char:EOLhyphen"/>ter of Wrong or just Title, and then if you go beyond it, the first Quarrel that you have to it, that makes it unjust at the end, that was just at first: But if it be only matter of Conquest, then it is a great Robbery; as a Pirate said to <hi>Alexander,</hi> That <hi>he was the Great Robber, he was but a Petty Robber;</hi> and so, Sir. I do think the way that you are in, is much out of the way. Nor Sir, for to put you in the way, believe it you will never do right, nor God will never
+<pb n="27" facs="tcp:134697:12"/> prosper you, until you give God his due, the King his due, (that is, my Successors) and the People their due; I am as much for them as any of you: You must give God his due, by regulating rightly his Church (according to his Scrip<g ref="char:EOLhyphen"/>ture) which is now out of order: For to set you in a way particularly now I cannot, but only this, A national Synod freely called, freely debating among themselves, must settle this; when, that every Opinon is freely and clearly heard.</p>
+               <p>For the King, indeed I will not (<hi>then turning to a Gentle<g ref="char:EOLhyphen"/>man that touched the Ax, said,</hi> Hurt not the Ax that may hurt me.<note n="*" place="margin">Meaning if he did blunt the edge.</note> For the King:) The Laws of the Land will clearly instruct you for that; therefore, because it concerns my own particular, I only give you a touch of it.</p>
+               <p>For the People. And truly I desire their Liberty and Freedom, as much as any body whomsoever; but I must tell you, That their Liberty and their Freedom, consists in having of Government; those Laws, by which their Life and their Goods, may be most their own. It is not for ha<g ref="char:EOLhyphen"/>ving share in the Government (Sir) that is nothing per<g ref="char:EOLhyphen"/>taining to them. A Subject and a Sovereign, are clean diffe<g ref="char:EOLhyphen"/>rent things; and therefore, until they do that, I mean, That you do put the People in that Liberty as I say, cer<g ref="char:EOLhyphen"/>tainly they will never enjoy themselves.</p>
+               <p>Sirs, It was for this, that now I am come here: If I would have given way to an Arbitrary way, for to have all Laws changed according to the Power of the Sword, I needed not to have come here; and therefore, I tell you, (and I pray God it be not laid to your Charge) That I am the Martyr of the People.</p>
+               <p>In troth Sirs, I shall not hold you much longer; for I will only say this to you, That in truth, I could have de<g ref="char:EOLhyphen"/>sired
+<pb n="28" facs="tcp:134697:13"/> some little time longer, because I would have put this that I have said, in a little more order, and a little better digested, than I have done; and therefore I hope you will excuse me.</p>
+               <p>I have delivered my Conscience, I pray God that you do take those courses that are best for the good of the King<g ref="char:EOLhyphen"/>dom and your own Salvations.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Doctor</hi> Juxon.</speaker>
+               <p>
+                  <hi>Will Your Majesty (though it may be very well known Your Majesty's Affections to Religion, yet it may be expected, That You should) say somewhat for the Worlds satisfaction.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>KING.</speaker>
+               <p>I thank you very heartily (my Lord) for that, I had al<g ref="char:EOLhyphen"/>most forgotten it. In troth Sirs, My Conscience in Reli<g ref="char:EOLhyphen"/>gion, I think, is very well known to all the World; and therefore, I declare before you all, That I die a Christian according to the Profession of the Church of <hi>England,</hi> as I found it left Me by My Father; and this honest Man<note n="*" place="margin">Pointing to Doctor <hi>Juxon.</hi>
+                  </note> I think will witness it. Then turning to the Officers, said, Sirs, excuse me for this same. I have a good Cause, and I have a Gracious God; I will say no more. Turning to Collonel <hi>Hacker,</hi> He said, Take care that they do not put Me to pain, and Sir this, and it please you: But then a Gentleman coming near the Ax, the King said, Take heed of the Ax, pray take heed of the Ax. Then the King speaking to the Executioner, said, I shall say but very short Prayers, and when I thrust out my hands. <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Then he called to Doctor <hi>Juxon</hi> for His Night-Cap, and having put it on, He said to the Executioner, Does my Hair trou<g ref="char:EOLhyphen"/>ble you? <hi>Who desired Him to put it all under His Cap, which
+<pb n="29" facs="tcp:134697:13"/> the King did accordingly, by the help of the Executioner and the Bishop: then the King turning to Doctor</hi> Juxon, <hi>said,</hi> I have a good Cause, and a gracious God on My side.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Doctor</hi> Juxon.</speaker>
+               <p>
+                  <hi>There is but one Stage more. This Stage is turbulent and troublesome; it is a short one: But You may consider it will soon carry You a very great way from Earth to Heaven; and there You shall find a great deal of Cordial Joy, and Comfort.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>KING.</speaker>
+               <p>I go from a Corruptible, to an Incorruptible Crown; where no Disturbance can be, no Disturbance in the World.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Doctor</hi> Juxon.</speaker>
+               <p>
+                  <hi>You are Exchanged from a Temporal to an Eternal Crown, a good Exchange.</hi>
+               </p>
+            </sp>
+            <p>
+               <hi>The King then said to the Executioner,</hi> Is my Hair well: <hi>Then the King took off his Cloak and his</hi> George, <hi>giving his</hi> George <hi>to Doctor</hi> Juxon, <hi>saying,</hi> Remember<note n="*" place="margin">It is thought for to give it to the Prince.</note>
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>
+               <hi>Then the King put off his Dublet, and being in his Wastcoat, put his Cloak on again, then looking upon the Block, said to the Executioner,</hi> You must set it fast.</p>
+            <sp>
+               <speaker>Executioner,</speaker>
+               <p>
+                  <hi>It is fast Sir.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>King,</speaker>
+               <p>It might have been a little higher.</p>
+            </sp>
+            <sp>
+               <speaker>Executioner,</speaker>
+               <p>
+                  <hi>It can be no higher Sir.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>King,</speaker>
+               <p>When I put out my Hands this way<note n="*" place="margin">Stretch<g ref="char:EOLhyphen"/>ing them out.</note> then <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </p>
+               <pb n="30" facs="tcp:134697:14"/>
+               <p>
+                  <hi>After that having said two or three Words (as he stood) to Himself, with Hands and Eyes lift up; immediatly stooping down, laid his Neck upon the Block: And then the</hi> Executioner <hi>again putting his Hair under his Cap, the King said,</hi>
+                  <note n="*" place="margin">Think<g ref="char:EOLhyphen"/>ing he had been going to strike.</note> Stay for the sign.</p>
+            </sp>
+            <sp>
+               <speaker>Executioner,</speaker>
+               <p>
+                  <hi>Yes, I will, and it please Your Majesty.</hi>
+               </p>
+            </sp>
+            <p>
+               <hi>And after a little pause, the King stretching forth His Hands, The Executioner at one Blow, severed his Head from Body.</hi>
+            </p>
+            <p>
+               <hi>That when the King's Head was cut off, the Executioner held it up, and shew'd it to the Spectators.</hi>
+            </p>
+            <p>
+               <hi>And His Body was put in a Coffin, covered with black Vel<g ref="char:EOLhyphen"/>vet, for that purpose.</hi>
+            </p>
+            <epigraph>
+               <q>
+                  <hi>Sic transit gloria mundi.</hi>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:134697:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
